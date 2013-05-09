@@ -1,0 +1,10 @@
+[0.001][INFO]:      ChromeDriver 23.0.1240.0 D:\dagger-163\Dagger-master\res\chromedriver_for_win.exe
+[0.585][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.switches": [ "--start-maximized" ],
+   "platform": "ANY",
+   "version": ""
+}
+
+[0.585][INFO]:      Launching chrome: "C:\Documents and Settings\wb-yangpei\Local Settings\Application Data\Google\Chrome\Application\chrome.exe" --enable-logging --log-level=1 --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --ignore-certificate-errors --start-maximized about:blank
+[1.447][INFO]:      Connected to Chrome successfully. Version: 24.0.1290.1

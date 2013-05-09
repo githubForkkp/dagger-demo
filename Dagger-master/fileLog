@@ -1,0 +1,91 @@
+2013-03-13 16:11:28 [main]-[INFO] Using Chrome
+2013-03-13 16:11:30 [main]-[INFO] Started BrowserEmulator
+2013-03-13 16:11:34 [main]-[INFO] Opened url http://www.baidu.com
+2013-03-13 16:11:34 [main]-[INFO] Found element //input[@id='kw']
+2013-03-13 16:11:34 [main]-[INFO] Found desired element //input[@id='kw']
+2013-03-13 16:11:35 [main]-[INFO] Type java at //input[@id='kw']
+2013-03-13 16:11:35 [main]-[INFO] Found element //input[@id='su']
+2013-03-13 16:11:35 [main]-[INFO] Found desired element //input[@id='su']
+2013-03-13 16:11:36 [main]-[INFO] Clicked //input[@id='su']
+2013-03-13 16:11:36 [main]-[INFO] Found text www.java.com
+2013-03-13 16:11:36 [main]-[INFO] Found desired text www.java.com
+2013-03-13 16:11:37 [main]-[INFO] Opened url http://www.baidu.com
+2013-03-13 16:11:38 [main]-[INFO] Found element //input[@id='kw']
+2013-03-13 16:11:38 [main]-[INFO] Found desired element //input[@id='kw']
+2013-03-13 16:11:38 [main]-[INFO] Type github at //input[@id='kw']
+2013-03-13 16:11:38 [main]-[INFO] Found element //input[@id='su']
+2013-03-13 16:11:38 [main]-[INFO] Found desired element //input[@id='su']
+2013-03-13 16:11:40 [main]-[INFO] Clicked //input[@id='su']
+2013-03-13 16:11:40 [main]-[INFO] Not found text https://github.com/
+2013-03-13 16:11:40 [main]-[INFO] Not found text https://github.com/
+2013-03-13 16:11:41 [main]-[INFO] Not found text https://github.com/
+2013-03-13 16:11:42 [main]-[INFO] Not found text https://github.com/
+2013-03-13 16:11:42 [main]-[INFO] Not found text https://github.com/
+2013-03-13 16:11:43 [main]-[INFO] Not found text https://github.com/
+2013-03-13 16:11:43 [main]-[INFO] Not found text https://github.com/
+2013-03-13 16:11:44 [main]-[INFO] Not found text https://github.com/
+2013-03-13 16:11:44 [main]-[INFO] Not found text https://github.com/
+2013-03-13 16:11:45 [main]-[INFO] Not found text https://github.com/
+2013-03-13 16:11:46 [main]-[ERROR] Failed to find text https://github.com/ >> capture screenshot at screenshot\20130313-161145.png
+2013-03-13 16:15:18 [TestNG]-[INFO] Using Chrome
+2013-03-13 16:15:18 [TestNG]-[INFO] Using Chrome
+2013-03-13 16:15:18 [TestNG]-[INFO] Started BrowserEmulator
+2013-03-13 16:15:18 [TestNG]-[INFO] Started BrowserEmulator
+2013-03-13 16:15:19 [TestNG]-[INFO] Opened url http://www.baidu.com
+2013-03-13 16:15:20 [TestNG]-[INFO] Found element //input[@id='kw']
+2013-03-13 16:15:20 [TestNG]-[INFO] Found desired element //input[@id='kw']
+2013-03-13 16:15:20 [TestNG]-[INFO] Opened url http://www.google.com
+2013-03-13 16:15:20 [TestNG]-[INFO] Type java at //input[@id='kw']
+2013-03-13 16:15:20 [TestNG]-[INFO] Found element //input[@name='q']
+2013-03-13 16:15:20 [TestNG]-[INFO] Found desired element //input[@name='q']
+2013-03-13 16:15:20 [TestNG]-[INFO] Found element //input[@id='su']
+2013-03-13 16:15:20 [TestNG]-[INFO] Found desired element //input[@id='su']
+2013-03-13 16:15:20 [TestNG]-[INFO] Type java at //input[@name='q']
+2013-03-13 16:15:21 [TestNG]-[INFO] Found element //input[@name='btnK']
+2013-03-13 16:15:21 [TestNG]-[INFO] Found desired element //input[@name='btnK']
+2013-03-13 16:15:21 [TestNG]-[INFO] Clicked //input[@id='su']
+2013-03-13 16:15:21 [TestNG]-[INFO] Found text www.java.com
+2013-03-13 16:15:21 [TestNG]-[INFO] Found desired text www.java.com
+2013-03-13 16:15:22 [TestNG]-[INFO] Element //input[@name='btnK'] is unclickable, try again
+2013-03-13 16:15:22 [TestNG]-[INFO] Opened url http://www.baidu.com
+2013-03-13 16:15:22 [TestNG]-[INFO] Element //input[@name='btnK'] is unclickable, try again
+2013-03-13 16:15:22 [TestNG]-[INFO] Found element //input[@id='kw']
+2013-03-13 16:15:22 [TestNG]-[INFO] Found desired element //input[@id='kw']
+2013-03-13 16:15:22 [TestNG]-[INFO] Type github at //input[@id='kw']
+2013-03-13 16:15:23 [TestNG]-[INFO] Element //input[@name='btnK'] is unclickable, try again
+2013-03-13 16:15:23 [TestNG]-[INFO] Found element //input[@id='su']
+2013-03-13 16:15:23 [TestNG]-[INFO] Found desired element //input[@id='su']
+2013-03-13 16:15:23 [TestNG]-[INFO] Element //input[@name='btnK'] is unclickable, try again
+2013-03-13 16:15:23 [TestNG]-[INFO] Clicked //input[@id='su']
+2013-03-13 16:15:23 [TestNG]-[INFO] Found text www.github.com
+2013-03-13 16:15:23 [TestNG]-[INFO] Found desired text www.github.com
+2013-03-13 16:15:24 [TestNG]-[INFO] Element //input[@name='btnK'] is unclickable, try again
+2013-03-13 16:15:24 [TestNG]-[INFO] Clicked //input[@name='btnK']
+2013-03-13 16:15:24 [TestNG]-[INFO] Not found text www.java.com
+2013-03-13 16:15:24 [TestNG]-[INFO] Found text www.java.com
+2013-03-13 16:15:24 [TestNG]-[INFO] Found desired text www.java.com
+2013-03-13 16:15:25 [TestNG]-[INFO] Opened url http://www.google.com
+2013-03-13 16:15:26 [TestNG]-[INFO] Found element //input[@name='q']
+2013-03-13 16:15:26 [TestNG]-[INFO] Found desired element //input[@name='q']
+2013-03-13 16:15:26 [TestNG]-[INFO] Type github at //input[@name='q']
+2013-03-13 16:15:26 [TestNG]-[INFO] Found element //input[@name='btnK']
+2013-03-13 16:15:26 [TestNG]-[INFO] Found desired element //input[@name='btnK']
+2013-03-13 16:15:27 [TestNG]-[INFO] Element //input[@name='btnK'] is unclickable, try again
+2013-03-13 16:15:28 [TestNG]-[INFO] Element //input[@name='btnK'] is unclickable, try again
+2013-03-13 16:15:28 [TestNG]-[INFO] Element //input[@name='btnK'] is unclickable, try again
+2013-03-13 16:15:29 [TestNG]-[INFO] Element //input[@name='btnK'] is unclickable, try again
+2013-03-13 16:15:29 [TestNG]-[INFO] Element //input[@name='btnK'] is unclickable, try again
+2013-03-13 16:15:29 [TestNG]-[INFO] Element //input[@name='btnK'] is unclickable
+2013-03-13 16:15:30 [TestNG]-[ERROR] Failed to click //input[@name='btnK'] >> capture screenshot at screenshot\20130313-161529.png
+2013-03-13 16:23:16 [main]-[INFO] Using Chrome
+2013-03-13 16:23:16 [main]-[INFO] Started BrowserEmulator
+2013-03-13 16:23:41 [main]-[INFO] Using Chrome
+2013-03-13 16:23:41 [main]-[INFO] Started BrowserEmulator
+2013-03-13 16:24:40 [main]-[INFO] Using Chrome
+2013-03-13 16:24:40 [main]-[INFO] Started BrowserEmulator
+2013-03-13 16:24:41 [main]-[INFO] Opened url http://www.google.com
+2013-03-13 16:24:42 [main]-[INFO] Opened url http://www.google.com
+2013-03-13 16:26:44 [main]-[INFO] Using Chrome
+2013-03-13 16:26:45 [main]-[INFO] Started BrowserEmulator
+2013-03-13 16:26:46 [main]-[INFO] Opened url http://www.google.com
+2013-03-13 16:26:47 [main]-[INFO] Opened url http://www.google.com
